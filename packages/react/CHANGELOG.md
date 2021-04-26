@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.6.1
+
+### Patch Changes
+
+- Updated dependencies
+  [[`8501fd105`](https://github.com/chakra-ui/chakra-ui/commit/8501fd105b50ebc61f53026688f8f63ad1e64173)]:
+  - @chakra-ui/popover@1.7.0
+  - @chakra-ui/accordion@1.3.1
+  - @chakra-ui/menu@1.6.1
+  - @chakra-ui/pin-input@1.6.1
+  - @chakra-ui/tabs@1.5.1
+
 ## 1.6.0
 
 ### Minor Changes

@@ -1,6 +1,6 @@
 {
   "name": "@chakra-ui/menu",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "A React component to render accessible menus",
   "keywords": [
     "menu",
@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@chakra-ui/clickable": "1.1.4",
-    "@chakra-ui/descendant": "2.0.0",
+    "@chakra-ui/descendant": "2.0.1",
     "@chakra-ui/hooks": "1.5.1",
     "@chakra-ui/popper": "2.1.2",
     "@chakra-ui/react-utils": "1.1.2",
